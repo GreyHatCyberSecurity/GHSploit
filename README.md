@@ -1,5 +1,5 @@
 Welcome to the GHSploit User Guide.
-First of all, we want to thank you for downloading the utility. 
+First of all, we want to thank you for choosing the GHSPloit utility. 
 We sincerely hope that GHSploit will make some of your penetration testing tasks easier and help you understand some things if you have any doubts or misunderstandings about how they work.
 
 Let's start in order.
