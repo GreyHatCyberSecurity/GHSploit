@@ -24,13 +24,13 @@ But since all other utilities do not require root privileges, it would be silly 
 Examples of running :
 ./GHSploit.sh : is the standard way to run the utility. Requires root access. It asks a few questions about whether to upgrade the system and install dependencies and shows how they are installed(or not). After that, it goes to the main menu
 
-./GHSploit -f : quick start, requires root access. Does not show messages from normal startup, does not install dependencies. An optimal way to start if all utilities are installed.
+./GHSploit.sh -f : quick start, requires root access. Does not show messages from normal startup, does not install dependencies. An optimal way to start if all utilities are installed.
 
-./GHSploit -fi :the same quick start, but only with the installation of dependencies. No system update.
+./GHSploit.sh -fi :the same quick start, but only with the installation of dependencies. No system update.
 
-./GHSploit --nonroot : Runs the utility without root privileges. No dependency installation, no system upgrade.
+./GHSploit.sh --nonroot : Runs the utility without root privileges. No dependency installation, no system upgrade.
 
-./GHSploit -h or --help : Display the help banner.
+./GHSploit.sh -h or --help : Display the help banner.
 
 --------------------------------------
 Main requiements
