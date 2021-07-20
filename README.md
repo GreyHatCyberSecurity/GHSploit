@@ -49,3 +49,6 @@ Inside the program there is some documentation on the utilities used and answers
 Also, there is a function to show system information (amount of RAM, system name, processor model, etc.), but on some systems may not be displayed accurately. 
 
 Docker version will be created soon..
+We almost forgot the most important thing.
+GHSploit is an excellent and free utility for testing your networks and devices for security and we hope that you will use it on your own networks or on others with the prior agreement of the network owner. We are not responsible if you happen to damage yourself or someone else. Remember - with great power comes great responsibility. Be strong.
+If you have any questions/issues/problems, please, feel free to contact us anytime at greyhatfeedback@protonmail.com 
